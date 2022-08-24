@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service2
+  description: This is yet another demo service
+  tags:
+    - nodejs
+    - backend
+spec:
+  type: service2
+  lifecycle: staging
+  owner: team1
