@@ -7,6 +7,6 @@ metadata:
     - nodejs
     - backend
 spec:
-  type: service2
+  type: service
   lifecycle: staging
   owner: team2
