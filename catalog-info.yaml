@@ -9,4 +9,4 @@ metadata:
 spec:
   type: service2
   lifecycle: staging
-  owner: team1
+  owner: team2
