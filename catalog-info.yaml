@@ -7,7 +7,7 @@ metadata:
     - nodejs
     - backend
   annotations:
-    sonarqube.org/project-key: sqp_5c58e2ce10ad1ada811475645efcf5d420ce7cf8
+    sonarqube.org/project-key: TestOrg1923_repo2_AYLuEwSzpl-OSC-IurZC
 spec:
   type: service
   lifecycle: staging
