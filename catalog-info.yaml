@@ -1,14 +1,17 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: service2
+  name: provider
   description: This is yet another demo service
   tags:
-    - nodejs
-    - backend
+    - java
+    - spring
+    - rest
   annotations:
-    sonarqube.org/project-key: TestOrg1923_repo2_AYLuEwSzpl-OSC-IurZC
+    sonarqube.org/project-key: TestOrg1923_repo2
+    backstage.io/kubernetes-id: provider
 spec:
   type: service
   lifecycle: staging
   owner: team2
+  system: Multifornecedor
