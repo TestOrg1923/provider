@@ -10,6 +10,7 @@ metadata:
   annotations:
     sonarqube.org/project-key: TestOrg1923_repo2
     backstage.io/kubernetes-id: provider
+    github.com/project-slug: TestOrg1923/repo2
 spec:
   type: service
   lifecycle: staging
