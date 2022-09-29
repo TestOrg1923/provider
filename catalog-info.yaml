@@ -8,7 +8,7 @@ metadata:
     - spring
     - rest
   annotations:
-    sonarqube.org/project-key: TestOrg1923_repo2
+    sonarqube.org/project-key: TestOrg1923_provider
     backstage.io/kubernetes-id: provider
     github.com/project-slug: TestOrg1923/repo2
 spec:
